@@ -13,4 +13,4 @@ Hey there! 👋<br>I'm Surbhi, a curious soul trying to break things (and then f
 ![](https://nirzak-streak-stats.vercel.app/?user=surbhirikhari&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surbhirikhari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/surbhirikhari/surbhirikhari/blob/output/github-contribution-grid-snake.svg)
