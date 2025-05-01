@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello world!! <br>I'm Surbhi, a curious soul trying to break things (and then fix them) with Python.<br>🐍 Right now, I'm working on cool projects, learning backend stuff, and improving my coding skills daily.<br>🌟 Goals: Master Python, explore Data Science, and create useful tools!<br>📬 Feel free to connect, collaborate, or just say hi!!
+Hello world!! <br>I'm Surbhi, a curious soul trying to break things (and then fix them) with Python.<br>🐍 Right now, I'm working on cool projects, learning backend stuff, and improving my coding skills daily.<br>🌟 Goals: Master Python, explore Data Science, Learn to work with AI and create useful tools!<br>📬 Feel free to connect, collaborate, or just say hi!!
 
 
 
